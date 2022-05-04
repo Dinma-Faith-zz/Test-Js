@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
 - write `git clone https://github.com/Dinma-Faith/Test-Js.git`.
-- go to the repository folder in your command prompt `cd to-doList`
+- go to the repository folder in your command prompt `cd Js.git`
 
 
 ## Prerequisites

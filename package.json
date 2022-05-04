@@ -1,0 +1,23 @@
+{
+  "name": "test-js",
+  "version": "1.0.0",
+  "description": "## Built With",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinma-Faith/Test-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinma-Faith/Test-Js/issues"
+  },
+  "homepage": "https://github.com/Dinma-Faith/Test-Js#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
